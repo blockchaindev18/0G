@@ -1,9 +1,9 @@
 .top-bar {
-    background: rgba(211, 211, 211, 0.365);
-    color: black;
+    background: #ED1C24;
+    color: white;
     text-align: center;
     padding: 10px;
-    font-size: 14px;
+    font-size: 12px;
     font-family: Arial, sans-serif;
 }
 
@@ -25,7 +25,7 @@ h1 {
 }
 
 .shop-now {
-    color: black;
+    color: white;
     text-decoration: underline;
 }
 
